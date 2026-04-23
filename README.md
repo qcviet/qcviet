@@ -36,7 +36,7 @@
 </div>
 
 ###
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/vi/view/bailes-gif-12538695882059836355)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <br clear="both">
 
