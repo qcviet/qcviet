@@ -36,7 +36,7 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://raw.githubusercontent.com/qcviet/qcviet/main/assets/gif/apx94f.gif" />
+<img align="center" height="220" src="https://raw.githubusercontent.com/qcviet/qcviet/main/assets/gif/apx94f.gif" />
 <br clear="both">
 
 
